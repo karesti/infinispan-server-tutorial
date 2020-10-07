@@ -6,7 +6,7 @@
   <name>Infinispan Tutorial: Client/Server tutorial</name>
 
   <properties>
-    <version.infinispan>11.0.1.Final</version.infinispan>
+    <version.infinispan>11.0.4.Final</version.infinispan>
   </properties>
 
   <dependencyManagement>
